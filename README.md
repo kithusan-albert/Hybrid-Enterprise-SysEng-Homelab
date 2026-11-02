@@ -4,7 +4,7 @@ Build, break, and document a secure, multi-tier network environment using indust
 
 System architecture: 
 
-{diagram}
+![Architecture Diagram](https://github.com/user-attachments/assets/004e9bd8-5eef-430b-a318-18dd7576745e)
 
 
 
